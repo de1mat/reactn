@@ -1,5 +1,4 @@
 /.vscode
-/build
 /docs/build
 /docs/node_modules
 /jest
